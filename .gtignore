@@ -1,0 +1,12 @@
+.gitignore
+README.md
+.gtignore
+LICENSE
+package.json
+yarn.lock
+package-lock.json
+.theia/
+.vscode/
+.gtconfig/
+.mocharc.json
+jest.config.js
